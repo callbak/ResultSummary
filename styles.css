@@ -178,10 +178,22 @@ body {
 
 #container2 div span:nth-of-type(2) {
     /* control properties */
-    margin-right: 1em;
-    margin-top: 4px;
+    margin-top: 4.5px;
+    /* styling properties */
+    color: hsla(224, 30%, 22%, 1);
+    /* text properties */
+    font-weight: 650;
 }
 
+#container2 div span:nth-of-type(3) {
+    /* control properties */
+    margin-right: 7px;
+    margin-top: 4px;
+    /* styling properties */
+    color: hsla(225, 10%, 77%, 0.8);
+    /* text properties */
+    font-weight: 700;
+}
 #container2 img {
     /* control properties */
     height: 20px;
